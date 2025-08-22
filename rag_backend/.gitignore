@@ -1,0 +1,11 @@
+# Django-related
+*.pyc
+__pycache__/
+.env
+*.log
+
+# Virtual Environment
+venv/
+
+# hide documents in prarent folder
+../documents/
