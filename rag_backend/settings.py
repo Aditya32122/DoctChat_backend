@@ -70,6 +70,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://doctchat-backend.onrender.com/"
 ]
 
 # Allow all methods (GET, POST, OPTIONS, etc.)
